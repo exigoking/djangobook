@@ -77,7 +77,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangobook',
 	'USER': 'djangobook',
-	'PASSWORD': 'OtanisKZ',
+	'PASSWORD': '',
     }
 }
 
